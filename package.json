@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.0.8",
+    "mongos": "0.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
